@@ -3,5 +3,7 @@ img {
 }
 body {
     text-align: center;
-    
+    font-family: "TimesNewRoman";
+    color: white;
+    background-image: url(https://i.giphy.com/gbRRfbAbuaeJO.webp);
 }
